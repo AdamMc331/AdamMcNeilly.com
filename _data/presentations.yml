@@ -1,3 +1,10 @@
+- title: Creating A Better Developer Experience By Avoiding Legacy Code
+  date: 2020-10-08
+  event: Android Summit 2020
+  description: I presented at the virtual Android Summit about how to avoid writing legacy code and create a better experience for your future teammates.
+  showResources: true
+  slides: https://speakerdeck.com/adammc331/creating-a-better-developer-experience-by-avoiding-legacy-code
+
 - title: Take Control Of Your APIs With GraphQL
   date: 2020-04-21
   event: Android Makers 2020
